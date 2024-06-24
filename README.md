@@ -4,6 +4,9 @@
 
 <p align="justify">Sou bióloga e mestre em Entomologia. Após 6 anos trabalhando como Analista Ambiental concursada em uma empresa pública decidi me dedicar integralmente à maternidade. Atualmente sou responsável integralmente pela educação dos nossos 5 filhos. Há um ano comecei a aprender programação e gostei tanto que decidi iniciar uma nova carreira profissional.</p>
 
+##Ebook voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
+<a href="https://github.com/polyanaamaral/E-book-IA-Generativa/blob/main/README.md"></a>
+
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/polyana-amaral-a68b61296/)
