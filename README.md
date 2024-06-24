@@ -4,7 +4,7 @@
 
 <p align="justify">Sou bióloga e mestre em Entomologia. Após 6 anos trabalhando como Analista Ambiental concursada em uma empresa pública decidi me dedicar integralmente à maternidade. Atualmente sou responsável integralmente pela educação dos nossos 5 filhos. Há um ano comecei a aprender programação e gostei tanto que decidi iniciar uma nova carreira profissional.</p>
 
-## E-BOOK voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
+## e-book voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
 <a href="https://github.com/polyanaamaral/E-book-IA-Generativa/blob/main/README.md">Veja aqui o repositório do e-book</a>
 
 ### Conecte-se comigo
