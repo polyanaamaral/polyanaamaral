@@ -2,13 +2,11 @@
        <span>Polyana Amaral</span>
 </h1>
 
-<p align="justify">Bióloga e mestre em Entomologia, com 6 anos de experiência como Analista Ambiental concursada em uma empresa pública. Após esse período, dediquei-me integralmente à maternidade, sendo responsável pela educação de nossos 5 filhos.
+<p align="justify">Sou bióloga de formação, com um mestrado em Entomologia e 6 anos de experiência como Analista Ambiental concursada em uma empresa pública. Após um período dedicado integralmente à maternidade e à educação de nossos 5 filhos, estou em transição de carreira para a programação, uma área pela qual desenvolvi uma grande paixão.
 
-Há um ano, embarquei em uma nova jornada aprendendo programação e descobri uma paixão pelo desenvolvimento de software. Estou em busca de uma posição como Desenvolvedora FrontEnd Junior na Hotmart.
+Concluí recentemente um curso de Desenvolvedor FullStack no IFES e estou atualmente aprofundando meus conhecimentos em React e Angular. Além disso, possuo habilidades em HTML, CSS, Bootstrap, e JavaScript, e conhecimentos básicos em Backend com Node.js. Também estou concluindo um Bootcamp sobre Inteligência Artificial para desenvolvedores, o que tem expandido minha compreensão sobre a aplicação de IA em projetos de desenvolvimento.
 
-Minhas competências técnicas incluem HTML, CSS, Bootstrap, JavaScript e React.js. Também possuo conhecimentos básicos em Backend com Node.js. Atualmente, estou concluindo um Bootcamp sobre Inteligência Artificial para desenvolvedores, que expandiu minha compreensão sobre a aplicação de IA em projetos de desenvolvimento.
-
-Meu background em biologia me proporcionou habilidades transferíveis valiosas, como análise detalhada, resolução de problemas complexos e gestão eficiente de projetos. Estou animada para aplicar essas competências no desenvolvimento de soluções inovadoras na Hotmart.</p>
+Minhas experiências anteriores me proporcionaram habilidades valiosas, como resolução de problemas complexos, análise detalhada e gestão eficiente de projetos. Tenho uma forte capacidade de trabalho em equipe e estou sempre disposta a aprender o que for necessário na área de programação. Estou entusiasmada para aplicar essas competências no desenvolvimento de soluções inovadoras </p>
 
 ## e-book voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
 <a href="https://github.com/polyanaamaral/E-book-IA-Generativa/blob/main/README.md">Veja aqui o repositório do e-book</a>
