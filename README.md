@@ -6,9 +6,9 @@
 
 Concluí recentemente um curso de Desenvolvedor FullStack no IFES e estou atualmente aprofundando meus conhecimentos em React e Angular. Possuo habilidades em HTML, CSS, Bootstrap e JavaScript, e conhecimentos básicos em Backend com Node.js. Também estou concluindo um Bootcamp sobre Inteligência Artificial para desenvolvedores, o que tem expandido minha compreensão sobre a aplicação de IA em projetos de desenvolvimento.
 
-Minhas experiências anteriores me proporcionaram habilidades valiosas, como resolução de problemas complexos, análise detalhada e gestão eficiente de projetos. Tenho uma forte capacidade de trabalho em equipe e estou sempre disposta a aprender o que for necessário na área de programação. Estou entusiasmada para aplicar essas competências no desenvolvimento de soluções inovadoras </p>
+Minhas experiências anteriores me proporcionaram habilidades valiosas, como resolução de problemas complexos, análise detalhada e gestão eficiente de projetos. Tenho uma forte capacidade de trabalho em equipe e estou sempre disposta a aprender o que for necessário na área de programação. Estou entusiasmada para aplicar essas competências no desenvolvimento de soluções inovadoras. </p>
 
-## e-book voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
+### e-book voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
 <a href="https://github.com/polyanaamaral/E-book-IA-Generativa/blob/main/README.md">Veja aqui o repositório do e-book</a>
 
 ### Conecte-se comigo
