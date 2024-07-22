@@ -4,7 +4,7 @@
 
 <p align="justify">Sou bióloga de formação, com um mestrado em Entomologia e 6 anos de experiência como Analista Ambiental concursada em uma empresa pública. Após um período dedicado integralmente à maternidade e à educação de nossos 5 filhos, estou em transição de carreira para a programação, uma área pela qual desenvolvi uma grande paixão.
 
-Concluí recentemente um curso de Desenvolvedor FullStack no IFES e estou atualmente aprofundando meus conhecimentos em React e Angular. Além disso, possuo habilidades em HTML, CSS, Bootstrap, e JavaScript, e conhecimentos básicos em Backend com Node.js. Também estou concluindo um Bootcamp sobre Inteligência Artificial para desenvolvedores, o que tem expandido minha compreensão sobre a aplicação de IA em projetos de desenvolvimento.
+Concluí recentemente um curso de Desenvolvedor FullStack no IFES e estou atualmente aprofundando meus conhecimentos em React e Angular. Possuo habilidades em HTML, CSS, Bootstrap e JavaScript, e conhecimentos básicos em Backend com Node.js. Também estou concluindo um Bootcamp sobre Inteligência Artificial para desenvolvedores, o que tem expandido minha compreensão sobre a aplicação de IA em projetos de desenvolvimento.
 
 Minhas experiências anteriores me proporcionaram habilidades valiosas, como resolução de problemas complexos, análise detalhada e gestão eficiente de projetos. Tenho uma forte capacidade de trabalho em equipe e estou sempre disposta a aprender o que for necessário na área de programação. Estou entusiasmada para aplicar essas competências no desenvolvimento de soluções inovadoras </p>
 
