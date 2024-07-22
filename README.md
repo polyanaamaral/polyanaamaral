@@ -2,7 +2,13 @@
        <span>Polyana Amaral</span>
 </h1>
 
-<p align="justify">Sou bióloga e mestre em Entomologia. Após 6 anos trabalhando como Analista Ambiental concursada em uma empresa pública decidi me dedicar integralmente à maternidade. Atualmente sou responsável integralmente pela educação dos nossos 5 filhos. Há um ano comecei a aprender programação e gostei tanto que decidi iniciar uma nova carreira profissional.</p>
+<p align="justify">Bióloga e mestre em Entomologia, com 6 anos de experiência como Analista Ambiental concursada em uma empresa pública. Após esse período, dediquei-me integralmente à maternidade, sendo responsável pela educação de nossos 5 filhos.
+
+Há um ano, embarquei em uma nova jornada aprendendo programação e descobri uma paixão pelo desenvolvimento de software. Estou em busca de uma posição como Desenvolvedora FrontEnd Junior na Hotmart.
+
+Minhas competências técnicas incluem HTML, CSS, Bootstrap, JavaScript e React.js. Também possuo conhecimentos básicos em Backend com Node.js. Atualmente, estou concluindo um Bootcamp sobre Inteligência Artificial para desenvolvedores, que expandiu minha compreensão sobre a aplicação de IA em projetos de desenvolvimento.
+
+Meu background em biologia me proporcionou habilidades transferíveis valiosas, como análise detalhada, resolução de problemas complexos e gestão eficiente de projetos. Estou animada para aplicar essas competências no desenvolvimento de soluções inovadoras na Hotmart.</p>
 
 ## e-book voltado para adolescentes sobre Inteligência Artificial Generativa, criado com uso de Inteligência Artifical (IA).
 <a href="https://github.com/polyanaamaral/E-book-IA-Generativa/blob/main/README.md">Veja aqui o repositório do e-book</a>
